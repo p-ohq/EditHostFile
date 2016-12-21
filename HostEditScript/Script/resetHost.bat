@@ -1,0 +1,1 @@
+xcopy C:\HostEditScript\Script\hosts %WINDIR%\System32\Drivers\Etc\hosts /y
