@@ -17,3 +17,5 @@ Reset the host file from default.
 
 
 If you have a custom host file that you want to use as default, you can copy that file to HostEditScript/Script and overwrite the host file there. 
+
+// BY Per-Ola Karlsson
