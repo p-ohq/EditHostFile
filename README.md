@@ -9,13 +9,13 @@ addHostLine
 
 ahl 
 
-Add a new line to your host file...  
+- Adds a new line to your host file...  
 
 resetHost
 
 rh 
 
-Reset the host file from default.  
+- Resets the host file from default.  
 
 
 If you have a custom host file that you want to use as default, you can copy that file to HostEditScript/Script and overwrite the host file there. 
