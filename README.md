@@ -6,11 +6,13 @@ Navigate to the folder and run EditHostFile\install.bat
 You can then run these commands:  
 
 addHostLine
+
 ahl 
 
 Add a new line to your host file...  
 
 resetHost
+
 rh 
 
 Reset the host file from default.  
